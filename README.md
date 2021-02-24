@@ -6,7 +6,7 @@ CPU: Intel Core i3 10100
 
 GPU: UHD Graph 630
 
-Audio Adapter: ?
+Audio Adapter: Realtek Unknow Audio Adapter(deviceid:65535)
 
 Gigabit LAN: RealtekRTL8111
 
@@ -18,7 +18,7 @@ Fastboot, Legacy USB Support ,VT, must turned off, the bios has unlock CFGlcok.
 
 CSM can't be turned off if use VAG to boot.
 
-TPM, Serial port must turned off
+TPM, Serial port must turned off.
 
 # Possible errors
 
@@ -28,13 +28,13 @@ Otherwise the boot code will be stuck in the End RandomSeed+++
 
 If Legacy USB Support is not turned off, the boot code will be stuck in the HID：Legacy shim 2
 
-If
+If you stuck in AppleUSB30XHCIPort@ XXXX, please switch to USB2.0 Interface.
 
 # Bootloader
 
 Opencore Version: 0.66
 
-System Edition: Catalina is well tested.
+System Edition: Mojave and Catalina is well tested.
 
 # Optional
 
