@@ -6,7 +6,7 @@ CPU: Intel Core i3 10100
 
 GPU: UHD Graph 630
 
-Audio Adapter: Realtek Unknow Audio Adapter(deviceid:65535)
+Audio Adapter: Realtek Unknow Audio Adapter(maybe ALC887)
 
 Gigabit LAN: RealtekRTL8111
 
