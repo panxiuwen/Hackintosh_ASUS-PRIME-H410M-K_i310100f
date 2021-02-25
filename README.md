@@ -16,7 +16,7 @@ Please follow this steps to set your bios [Tutorial](https://jingyan.baidu.com/a
 
 Fastboot, Legacy USB Support ,VT, must turned off, the bios has unlock CFGlcok.
 
-CSM can't be turned off if use VAG to boot.
+CSM can't be turned off if use VGA to boot.
 
 TPM, Serial port must turned off.
 
