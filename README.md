@@ -26,8 +26,6 @@ If you install mojava or an older version, please mask your CPUID[Tutorial](http
 
 Otherwise the boot code will be stuck in the End RandomSeed+++
 
-If Legacy USB Support is not turned off, the boot code will be stuck in the HID：Legacy shim 2
-
 If you stuck in AppleUSB30XHCIPort@ XXXX, please switch to USB2.0 Interface.
 
 # Bootloader
