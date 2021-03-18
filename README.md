@@ -38,6 +38,8 @@ System Edition: Mojave and Catalina is well tested.
 
 If you want to disable debug mode, please remove -v and keepsyms=1 to boot-args
 
+If you want to enter the system directly without selecting the startup item, please change ShowPicker into Disabled.
+
 # Issue
 
 Mic don't work.
